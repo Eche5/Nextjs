@@ -1,0 +1,108 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/FHo1kW1agdNV0dEc_U2Yv/_buildManifest.js",
+    "static/FHo1kW1agdNV0dEc_U2Yv/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/c7cd43b837c8a71c.css",
+      "static/chunks/pages/index-44a9219acf6e75cd.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/d997a389e724f125.css",
+      "static/chunks/pages/_app-2778267ae8e5daa5.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/newsites": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/458e8fe4655848a9.css",
+      "static/chunks/pages/newsites-423828e822ff197e.js"
+    ],
+    "/stateslist": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/b6c09a6caa54639e.css",
+      "static/chunks/pages/stateslist-f2e1ab2b3e906f91.js"
+    ],
+    "/stateslist/[stateName]/Abia": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/e9ed6ce7fe98473d.css",
+      "static/chunks/pages/stateslist/[stateName]/Abia-952c0190e916c5b4.js"
+    ],
+    "/stateslist/[stateName]/Adamawa": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/e9ed6ce7fe98473d.css",
+      "static/chunks/pages/stateslist/[stateName]/Adamawa-004b0a3a3c6194a1.js"
+    ],
+    "/stateslist/[stateName]/AkwaIbom": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/e9ed6ce7fe98473d.css",
+      "static/chunks/pages/stateslist/[stateName]/AkwaIbom-d987568c01f327b5.js"
+    ],
+    "/stateslist/[stateName]/Anambra": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/e9ed6ce7fe98473d.css",
+      "static/chunks/pages/stateslist/[stateName]/Anambra-35fcafe126d62b83.js"
+    ],
+    "/stateslist/[stateName]/Bauchi": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/css/e9ed6ce7fe98473d.css",
+      "static/chunks/pages/stateslist/[stateName]/Bauchi-e6d2cf0ad0d13420.js"
+    ],
+    "/stateslist/[stateName]/Bayelsa": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/chunks/pages/stateslist/[stateName]/Bayelsa-486a62b76960d993.js"
+    ],
+    "/stateslist/[stateName]/Borno": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/chunks/pages/stateslist/[stateName]/Borno-c405de9b739d1ba2.js"
+    ],
+    "/stateslist/[stateName]/Cross River": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/chunks/pages/stateslist/[stateName]/Cross River-341d8e72bc5426ac.js"
+    ],
+    "/stateslist/[stateName]/benue": [
+      "static/chunks/webpack-69bfa6990bb9e155.js",
+      "static/chunks/framework-7dc8a65f4a0cda33.js",
+      "static/chunks/main-e8471c8504aafa6c.js",
+      "static/chunks/pages/stateslist/[stateName]/benue-d0f7b056db503d3d.js"
+    ]
+  },
+  "ampFirstPages": []
+}

@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.js",
+  "/newsites": "pages/newsites.js",
+  "/stateslist/[stateName]/Abia": "pages/stateslist/[stateName]/Abia.js",
+  "/stateslist/[stateName]/Adamawa": "pages/stateslist/[stateName]/Adamawa.js",
+  "/stateslist/[stateName]/AkwaIbom": "pages/stateslist/[stateName]/AkwaIbom.js",
+  "/stateslist/[stateName]/Anambra": "pages/stateslist/[stateName]/Anambra.js",
+  "/stateslist/[stateName]/Bauchi": "pages/stateslist/[stateName]/Bauchi.js",
+  "/stateslist/[stateName]/Bayelsa": "pages/stateslist/[stateName]/Bayelsa.js",
+  "/stateslist/[stateName]/Borno": "pages/stateslist/[stateName]/Borno.js",
+  "/stateslist/[stateName]/Cross River": "pages/stateslist/[stateName]/Cross River.js",
+  "/stateslist/[stateName]/benue": "pages/stateslist/[stateName]/benue.js",
+  "/stateslist": "pages/stateslist.js",
+  "/_document": "pages/_document.js"
+}
