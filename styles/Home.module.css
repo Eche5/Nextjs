@@ -1,0 +1,45 @@
+
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+.collage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+   background-image: url("https://img.freepik.com/premium-photo/nigeria-flag-painted-clenched-fist-strength-protest-concept_601748-9544.jpg?w=1060");
+  background-repeat: no-repeat;
+  background-size: 100% 200vh;
+}
+
+.imageItem {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  margin: 10px;
+}
+
+.videoItem {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  margin: 10px;
+}
+
+.videoIframe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.container {
+  background-image: url("../public/3862.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* Additional background styles if needed */
+}
