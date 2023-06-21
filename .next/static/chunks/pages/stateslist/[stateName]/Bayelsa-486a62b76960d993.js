@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6],{3272:function(n,t,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/stateslist/[stateName]/Bayelsa",function(){return _(7645)}])},7645:function(){}},function(n){n.O(0,[774,888,179],(function(){return t=3272,n(n.s=t);var t}));var t=n.O();_N_E=t}]);
